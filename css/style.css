@@ -155,6 +155,10 @@ header {
     
 }
 
+.active, .navItems:hover {
+    color: #E60073;
+}
+
 .heroSection {
     display: flex;
     align-items: center;
